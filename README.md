@@ -1,6 +1,8 @@
-## Привет, меня зовут Сергей!
-
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpqYXRvMGR4azl1aTdiNjI4OHpiNmFzM3F6bDU2dzVkMnNkOWl3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="50%"/>
+</div>
+ <h1 align="center"> Привет, меня зовут Сергей! </h1>
+  
 
 
 
