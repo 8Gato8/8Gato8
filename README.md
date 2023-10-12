@@ -31,6 +31,7 @@ Backend:
 
 ### Учу сейчас/планирую учить
 
+<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=764ABC" alt="PHP logo" title="PHP" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
