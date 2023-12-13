@@ -31,12 +31,12 @@ Backend:
 
 ### Учу сейчас/планирую учить
 
-<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=764ABC" alt="PHP logo" title="PHP" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
 <img src="https://img.shields.io/badge/Styled_Components-282C34?logo=styled-components&logoColor=DB7093" alt="Styled components logo" title="Styled components" height="25" />
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
+<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=764ABC" alt="PHP logo" title="PHP" height="25" />&nbsp;
 
 ### Как со мной связаться
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=2CA5E0" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/SergeySkotselyas)
