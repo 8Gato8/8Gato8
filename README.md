@@ -14,8 +14,6 @@
 
 ### Стек
 
-<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />
-
 Frontend:
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
@@ -29,6 +27,8 @@ Backend:
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />
 
 ### Учу сейчас/планирую учить
 
