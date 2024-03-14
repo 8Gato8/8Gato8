@@ -33,13 +33,6 @@ Backend:
 
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />
 
-### Учу сейчас/планирую учить
-
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Styled_Components-282C34?logo=styled-components&logoColor=DB7093" alt="Styled components logo" title="Styled components" height="25" />
-<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
-<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=764ABC" alt="PHP logo" title="PHP" height="25" />&nbsp;
-
 ### Как со мной связаться
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=2CA5E0" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/SergeySkotselyas)
 [<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=D14836" alt="Gmail logo" title="Gmail" height="25" />](mailto:sergey.skotselias@gmail.com)
