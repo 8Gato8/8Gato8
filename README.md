@@ -35,7 +35,7 @@ Backend:
 
 ### Как со мной связаться
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=2CA5E0" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/SergeySkotselyas)
-[<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=D14836" alt="Gmail logo" title="Gmail" height="25" />](mailto:sergey.skotselias@gmail.com)
+[<img src="https://img.shields.io/badge/Яндекс Почта-282C34?logo=yandex&logoColor=f00" alt="Yandex logo" title="Яндекс Почта" height="25" />](mailto:sergey.sckotcelias@yandex.ru)
 
 <!--
 **8Gato8/8Gato8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
