@@ -26,6 +26,8 @@ Frontend:
 
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8Gato8)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Как со мной связаться
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=2CA5E0" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/SergeySkotselyas)
 [<img src="https://img.shields.io/badge/Яндекс Почта-282C34?logo=yandex&logoColor=f00" alt="Yandex logo" title="Яндекс Почта" height="25" />](mailto:sergey.sckotcelias@yandex.ru)
