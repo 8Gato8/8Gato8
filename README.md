@@ -11,7 +11,7 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8Gato8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8Gato8&layout=donut&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=2CA5E0" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/SergeySkotselyas)
 [<img src="https://img.shields.io/badge/Яндекс Почта-282C34?logo=yandex&logoColor=f00" alt="Yandex logo" title="Яндекс Почта" height="25" />](mailto:sergey.sckotcelias@yandex.ru)
